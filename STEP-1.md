@@ -1,4 +1,4 @@
-# Advanced Demo - Migrating a database with the Database MIgration Service
+# Database Migration with the Database MIgration Service
 
 In this tutorial we will be migrating a simple web application (wordpress) from an on-premises environment into AWS.  
 The on-premises environment is a virtual web server (simulated using EC2) and a self-managed mariaDB database server (also simulated via EC2)  
