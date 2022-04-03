@@ -1,4 +1,4 @@
-# Advanced Demo - Migrating a database with the Database MIgration Service
+# Database Migration with the Database Migration Service
 
 This advanced demo consists of 5 steps :-
 
