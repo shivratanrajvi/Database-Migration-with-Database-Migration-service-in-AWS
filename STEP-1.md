@@ -4,7 +4,7 @@ In this tutorial we will be migrating a simple web application (wordpress) from 
 The on-premises environment is a virtual web server (simulated using EC2) and a self-managed mariaDB database server (also simulated via EC2)  
 You will be migrating this into AWS and running the architecture on an EC2 webserver and RDS managed SQL database.  
 
-This advanced demo consists of 6s :-
+This advanced demo consists of 5 Steps :-
 
 - STEP 1 : Provision the environment and review tasks **<= THIS STAGE**
 - STEP 2 : Establish Private Connectivity Between the environments (VPC Peer)
